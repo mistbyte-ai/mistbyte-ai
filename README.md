@@ -1,16 +1,22 @@
-## Hi there 👋
+## Vyacheslav G (MistByte)
 
-<!--
-**mistbyte-ai/mistbyte-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & systems engineer with experience in both classic backend development and AI-powered tools.
 
-Here are some ideas to get you started:
+### Focus areas
+- Backend development: APIs, services, integrations
+- AI-assisted systems: search, retrieval, automation
+- System design, debugging, performance tuning
+- Prototyping and rapid iteration for real-world projects
+- Experience with client-driven and niche projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+- Languages: JavaScript (Node.js), PHP, Python, Bash
+- Backend: REST APIs, WebSockets, background workers
+- Data & search: custom search pipelines, parsing, indexing
+- Infrastructure: Linux, Docker, CI/CD, system services
+- AI tools: LLM integration, prompt engineering, AI-assisted workflows
+
+### Notes
+- Projects are maintained by a single author
+- External pull requests are not accepted
+- Issues are intended for critical bug reports only
