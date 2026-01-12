@@ -20,3 +20,7 @@ Backend & systems engineer with experience in both classic backend development a
 - Projects are maintained by a single author
 - External pull requests are not accepted
 - Issues are intended for critical bug reports only
+
+### Support
+If you find my open-source work useful and want to support further development:  
+https://home.vps.3-a.net/donate
