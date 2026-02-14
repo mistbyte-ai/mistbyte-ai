@@ -21,7 +21,8 @@ Backend & systems engineer building practical local AI tooling (Search API, retr
 - Issues are intended for critical bug reports only
 
 ### Links
-Project hub: https://mistbyte-ai.github.io/
+- Project hub: https://mistbyte-ai.github.io/
+- Reddit: https://www.reddit.com/user/MistByteAI/
 
 ### Support
 If you find my open-source work useful and want to support further development:  
