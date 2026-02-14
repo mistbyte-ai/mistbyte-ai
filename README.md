@@ -1,13 +1,12 @@
 ## Vyacheslav G (MistByte)
 
-Backend & systems engineer with experience in both classic backend development and AI-powered tools.
+Backend & systems engineer building practical local AI tooling (Search API, retrieval, time-aware plugins) and real-world backend integrations.
 
 ### Focus areas
 - Backend development: APIs, services, integrations
-- AI-assisted systems: search, retrieval, automation
+- Local AI tooling: search, retrieval, automation
 - System design, debugging, performance tuning
-- Prototyping and rapid iteration for real-world projects
-- Experience with client-driven and niche projects
+- Reproducible setups for real constraints (hardware, network, latency)
 
 ### Tech stack
 - Languages: JavaScript (Node.js), PHP, Python, Bash
@@ -21,6 +20,9 @@ Backend & systems engineer with experience in both classic backend development a
 - External pull requests are not accepted
 - Issues are intended for critical bug reports only
 
+### Links
+Project hub: https://mistbyte-ai.github.io/
+
 ### Support
 If you find my open-source work useful and want to support further development:  
-https://home.vps.3-a.net/donate
+https://mistbyte-ai.github.io/#support
